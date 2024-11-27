@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fhamyla
-- 👀 I’m interested in Software Quality Assurance
+- 👀 I’m interested in QA
 - 🌱 I’m currently learning React Native and NodeJS
 - 📫 You can reach me through my email account, fhamyla.devera@gmail.com
 - ⚡ Fun fact: Furmom, Swiftie, and love Ghibli 
