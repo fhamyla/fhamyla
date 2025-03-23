@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fhamyla
-- 👀 I’m interested in QA
+- 👀 I’m interested in QA and Cybersecurity
 - 🌱 I’m currently learning React Native and NodeJS
 - 📫 You can reach me through my email account, fhamyla.devera@gmail.com
 
