@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 - 🔭 I’m currently learning **React Native**
 - 🎨 I bring my love for **art and design** into how I approach building intuitive, beautiful websites and applications
 - 🌱 I’m driven by clean design, efficient code, and continuous growth
-- 🧩 Outside of coding, you’ll probably find me sketching, creating in **Figma or Blender**, or rewatching **My Neighbor Totoro** 💕
+- 🧩 Outside of coding, you’ll probably find me rewatching **My Neighbor Totoro** 💕
 
 <p align="center">
   <img src="https://media.tenor.com/aARMnEHFZxQAAAAj/todoro-miyazaki.gif" alt="Totoro" width="150" />
