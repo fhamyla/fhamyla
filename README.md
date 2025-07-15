@@ -10,10 +10,10 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 - 🧩 Outside of coding, you’ll probably find me sketching, creating in **Figma or Blender**, or rewatching **My Neighbor Totoro** 💕
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/0d/My_Neighbor_Totoro_-_Totoro_standing.svg" alt="Totoro" width="150" />
+  <img src="https://tenor.com/view/todoro-miyazaki-gif-23536124" alt="Totoro" width="150" />
 </p>
 
-> Totoro reminds me that creativity and curiosity go hand in hand — and that joy can be found in the little things, like building a fun UI component or solving a tricky bug. 🌱
+> My dream neighbor? Definitely Totoro.🌱
 
 ## 🛠️ Technologies & Tools
 
