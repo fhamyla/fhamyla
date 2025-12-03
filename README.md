@@ -4,10 +4,11 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 
 ## 👩‍💻 About Me
 
-- 🔭 I’m currently learning **React Native**
-- 🎨 I bring my love for **art and design** into how I approach building intuitive, beautiful websites and applications
-- 🌱 I’m driven by clean design, efficient code, and continuous growth
-- 🧩 Outside of coding, you’ll probably find me rewatching **My Neighbor Totoro** 💕
+- 🔭 Currently learning **Sybase ASE**
+- 💻 Working on a personal project using **Sybase ASE**
+- 🌐 Interested in **cybersecurity**, **cloud development**, and **full-stack development**
+- 🛡️ ISC2 **Certified in Cybersecurity (CC)**
+- 🧩 When I’m not working on tech, you’ll probably find me rewatching **My Neighbor Totoro** 💕
 
 <p align="center">
   <img src="https://media.tenor.com/aARMnEHFZxQAAAAj/todoro-miyazaki.gif" alt="Totoro" width="150" />
@@ -36,6 +37,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sybase%20ASE-0FAAFF?style=flat&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
