@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 
 > My dream neighbor? Definitely Totoro.🌱
 
-[![ISC2 Badge](assets/isc2.png)](https://www.credly.com/badges/c8ac7bd3-8aea-4624-bac8-00053d6b4611/public_url)
+[<img src="https://github.com/user-attachments/assets/c307fb22-230d-459e-af52-881afaf5addd" width="340" alt="ISC2 Badge">](https://www.credly.com/badges/c8ac7bd3-8aea-4624-bac8-00053d6b4611/public_url)
 
 ## 🛠️ Technologies & Tools
 <p>
