@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently learning **Sybase ASE**
+- 🔭 Currently learning **PostgreSQL**
 - 🌐 Interested in **cybersecurity**, **cloud development**, and **full-stack development**
 - 🛡️ ISC2 **Certified in Cybersecurity (CC)**
 - 🧩 When I’m not working on tech, you’ll probably find me rewatching **My Neighbor Totoro** 💕
@@ -45,7 +45,6 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sybase%20ASE-0FAAFF?style=flat&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
