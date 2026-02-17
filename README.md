@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 
 - 🌐 Interested in **cybersecurity**, **cloud development**, and **full-stack development**
 - 🛡️ ISC2 **Certified in Cybersecurity (CC)**
+- 🧪 Currently building hands-on cybersecurity skills through labs and challenges on **TryHackMe**
 - 🧩 When I’m not working on tech, you’ll probably find me rewatching **My Neighbor Totoro** 💕
 
 <p align="center">
