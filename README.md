@@ -30,6 +30,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat&logo=tailwind-css&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
@@ -53,6 +54,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-000808?style=flat&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=flat&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Google%20Analytics-F9AB00?style=flat&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
