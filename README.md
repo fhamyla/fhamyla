@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 
 ## 👩‍💻 About Me
 
-- 🌐 Interested in **cybersecurity**, **AI/ML**, **cloud computing**, and **full-stack development**
+- 🌐 Interested in **cybersecurity**, **AI/ML**, **DevSecOps**, and **full-stack development**
 - 🛡️ ISC2 **Certified in Cybersecurity (CC)**
 - 🧩 When I’m not working on tech, you’ll probably find me rewatching **My Neighbor Totoro** 💕
 
