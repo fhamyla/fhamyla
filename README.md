@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Fhamyla!
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+AI+%7C+Full-Stack;Always+learning+new+things;Welcome+to+my+GitHub!" />
+</p>
+
 Welcome to my GitHub! I'm a passionate developer focused on learning and building exciting things in tech.
 
 ## 👩‍💻 About Me
@@ -20,6 +24,23 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <br>
   <b>Click Me</b>
 </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fhamyla&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fhamyla&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhamyla&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fhamyla&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fhamyla&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ## 🛠️ Technologies & Tools
