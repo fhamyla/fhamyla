@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Fhamyla!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI/ML+%7C+%7C+Full-Stack;Always+learning+new+things;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI/ML+%7C+Full-Stack;Always+learning+new+things;Welcome+to+my+GitHub!" />
 </p>
 
 Welcome to my GitHub! I'm a passionate developer focused on learning and building exciting things in tech.
