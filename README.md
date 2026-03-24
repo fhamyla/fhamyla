@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Fhamyla!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI/ML+%7C+DevSecOps+%7C+Full-Stack;Always+learning+new+things;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI/ML+%7C+%7C+Full-Stack;Always+learning+new+things;Welcome+to+my+GitHub!" />
 </p>
 
 Welcome to my GitHub! I'm a passionate developer focused on learning and building exciting things in tech.
 
 ## 👩‍💻 About Me
 
-- 🌐 Interested in **cybersecurity**, **AI/ML**, **DevSecOps**, and **full-stack development**
+- 🌐 Interested in **cybersecurity**, **AI/ML**, and **full-stack development**
 - 🛡️ ISC2 **Certified in Cybersecurity (CC)**
 - 🧩 When I’m not working on tech, you’ll probably find me rewatching **My Neighbor Totoro** 💕
 
