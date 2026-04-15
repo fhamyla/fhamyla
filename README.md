@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 - 🧩 When I’m not working on tech, you’ll probably find me rewatching **My Neighbor Totoro** 💕
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmljaXMxZDkyOGdzbzRwd3VhcTFyMW1ibnlzdmVoMzlrZW5hZzhvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jvUjIiKFPdte/giphy.gif" alt="Totoro" width="150" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmljaXMxZDkyOGdzbzRwd3VhcTFyMW1ibnlzdmVoMzlrZW5hZzhvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jvUjIiKFPdte/giphy.gif" alt="Totoro" width="250" />
 </p>
 
 > My dream neighbor? Definitely Totoro.🌱
