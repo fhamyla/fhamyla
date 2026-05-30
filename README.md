@@ -90,6 +90,8 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -101,6 +103,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
@@ -111,6 +114,14 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-000808?style=flat&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Security_Operations-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAR-6C63FF?style=flat&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chronicle_SIEM-00A3E0?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/YARA-L-555555?style=flat&logo=sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK_Framework-E44C4C?style=flat&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-20232A?style=flat&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Google%20Analytics-F9AB00?style=flat&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
@@ -118,6 +129,9 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
