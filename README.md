@@ -119,7 +119,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/Chronicle_SIEM-00A3E0?style=flat&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/YARA-L-555555?style=flat&logo=sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK_Framework-E44C4C?style=flat&logo=hackaday&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-20232A?style=flat&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Google%20Analytics-F9AB00?style=flat&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
