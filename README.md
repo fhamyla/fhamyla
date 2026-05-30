@@ -18,12 +18,52 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 
 > My dream neighbor? Definitely Totoro.🌱
 
+<h2 align="center">🏆 Certifications & Skill Badges</h2>
+
 <p align="center">
+
+  <!-- ISC2 -->
   <a href="https://www.credly.com/badges/c8ac7bd3-8aea-4624-bac8-00053d6b4611/public_url">
-  <img src="https://github.com/user-attachments/assets/c307fb22-230d-459e-af52-881afaf5addd" width="140" alt="ISC2 Badge">
-  <br>
-  <b>Click Me</b>
-</a>
+    <img src="https://github.com/user-attachments/assets/c307fb22-230d-459e-af52-881afaf5addd"
+         width="140"
+         alt="ISC2 Certified in Cybersecurity">
+  </a>
+
+  <!-- Google Skill Badge 1 -->
+  <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/24204403">
+    <img src="https://cdn.qwiklabs.com/Vn8obezRkW7XylEKUmTypU6J9gi4LzDThv7MxBbvJWY%3D"
+         width="140"
+         alt="Google Cloud Skill Badge 1">
+  </a>
+
+  <!-- Google Skill Badge 2 -->
+  <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/24201769">
+    <img src="https://cdn.qwiklabs.com/hxPJrJVfw5sEHrmke%2FahnThvuvXzl5gmx%2F94wS2E0zA%3D"
+         width="140"
+         alt="Google Cloud Skill Badge 2">
+  </a>
+
+  <!-- Google Skill Badge 3 -->
+  <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/24194093">
+    <img src="https://cdn.qwiklabs.com/25gTvxl7oEBrBwltnLJQF%2F6ZCEFyqTNznTgGQVEgh9c%3D"
+         width="140"
+         alt="Google Cloud Skill Badge 3">
+  </a>
+
+  <!-- Google Skill Badge 4 -->
+  <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/23608004">
+    <img src="https://cdn.qwiklabs.com/vteC0ZpdDq82lB3N8Pg1WCf9SNTcixt4XVNHwKiFh%2FE%3D"
+         width="140"
+         alt="Google Cloud Skill Badge 4">
+  </a>
+
+  <!-- Google Skill Badge 5 -->
+  <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/23559430">
+    <img src="https://cdn.qwiklabs.com/j3ytSAt0eMwbr0VstwTO%2F2Jxk3JOboisUtqMBgqtDKs%3D"
+         width="140"
+         alt="Google Cloud Skill Badge 5">
+  </a>
+
 </p>
 
 <p align="center">
