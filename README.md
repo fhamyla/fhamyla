@@ -71,7 +71,10 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fhamyla"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fhamyla&theme=tokyonight"
+    alt="GitHub streak stats"
+  />
 </p>
 
 <p align="center">
