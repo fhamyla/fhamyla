@@ -71,7 +71,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fhamyla&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com/fhamylaDenverCoder1(https://git.io/streak-stats)"/>
 </p>
 
 <p align="center">
