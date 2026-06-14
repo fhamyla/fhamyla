@@ -77,6 +77,10 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://komarev.com/ghpvc/?username=fhamyla&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+![](https://streak-stats.demolab.com/?user=fhamyla&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fhamyla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fhamyla&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
