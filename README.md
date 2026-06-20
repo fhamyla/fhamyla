@@ -29,6 +29,13 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
          alt="ISC2 Certified in Cybersecurity">
   </a>
 
+  <!-- Cisco -->
+  <a href="https://www.credly.com/badges/29a5e1da-15fb-435d-bce9-626474504465/public_url">
+    <img src="https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png"
+         width="140"
+         alt="Cisco Badge 1">
+  </a>
+
   <!-- Google Skill Badge 1 -->
   <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/23559430">
     <img src="https://cdn.qwiklabs.com/Vn8obezRkW7XylEKUmTypU6J9gi4LzDThv7MxBbvJWY%3D"
@@ -69,7 +76,16 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
     <img src="https://cdn.qwiklabs.com/aM1mN0gSEvrDIrNI62BU5QPavPuCk%2Fi3jLHBRc31ZTc%3D"
          width="140"
          alt="Google Cloud Skill Badge 6">
+  </a>  
+  
+  <!-- Google Skill Badge 7 -->
+  <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/24992232">
+    <img src="https://cdn.qwiklabs.com/ruCyHO8Xuzk2LHFOBpFSi8kbi7iMf09Kkt0wd7HHJM4%3D"
+         width="140"
+         alt="Google Cloud Skill Badge 7">
   </a>
+
+  
 
 </p>
 
