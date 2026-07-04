@@ -85,6 +85,13 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
          alt="Google Cloud Skill Badge 7">
   </a>
 
+    <!-- Google Skill Badge 8 -->
+  <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/25323169">
+    <img src="https://cdn.qwiklabs.com/V5hy7oPDiKov68Q4kTcuuA%2BMHNMX3Z0my4mncKPPGvY%3D"
+         width="140"
+         alt="Google Cloud Skill Badge 8">
+  </a>
+
   
 
 </p>
