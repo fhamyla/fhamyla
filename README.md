@@ -161,6 +161,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK_Framework-E44C4C?style=flat&logo=hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-20232A?style=flat&logo=terraform&logoColor=844FBA" />
   <img src="https://img.shields.io/badge/Docker-20232A?style=flat&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Google%20Analytics-F9AB00?style=flat&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
