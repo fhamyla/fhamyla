@@ -35,6 +35,12 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
          width="140"
          alt="Cisco Badge 1">
   </a>
+  
+  <a href="https://www.credly.com/earner/earned/badge/6cf6b4d9-1cf3-4e18-a3e0-1c0a17b6861f">
+    <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png"
+         width="140"
+         alt="Cisco Badge 2">
+  </a>
 
   <!-- Google Skill Badge 1 -->
   <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/23559430">
@@ -76,19 +82,20 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
     <img src="https://cdn.qwiklabs.com/aM1mN0gSEvrDIrNI62BU5QPavPuCk%2Fi3jLHBRc31ZTc%3D"
          width="140"
          alt="Google Cloud Skill Badge 6">
-  </a>  
+  </a>
+  
+  <!-- Google Skill Badge 8 -->
+  <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/25323169">
+    <img src="https://cdn.qwiklabs.com/V5hy7oPDiKov68Q4kTcuuA%2BMHNMX3Z0my4mncKPPGvY%3D"
+         width="140"
+         alt="Google Cloud Skill Badge 8">
+  </a>
   
   <!-- Google Skill Badge 7 -->
   <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/24992232">
     <img src="https://cdn.qwiklabs.com/ruCyHO8Xuzk2LHFOBpFSi8kbi7iMf09Kkt0wd7HHJM4%3D"
          width="140"
          alt="Google Cloud Skill Badge 7">
-  </a>
-
-  <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/25323169">
-    <img src="https://cdn.qwiklabs.com/V5hy7oPDiKov68Q4kTcuuA%2BMHNMX3Z0my4mncKPPGvY%3D"
-         width="140"
-         alt="Google Cloud Skill Badge 8">
   </a>
 
   
