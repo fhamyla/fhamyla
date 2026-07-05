@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
          alt="Cisco Badge 1">
   </a>
   
-  <a href="https://www.credly.com/earner/earned/badge/6cf6b4d9-1cf3-4e18-a3e0-1c0a17b6861f">
+  <a href="https://www.credly.com/badges/6cf6b4d9-1cf3-4e18-a3e0-1c0a17b6861f/public_url">
     <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png"
          width="140"
          alt="Cisco Badge 2">
