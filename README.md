@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   
   <a href="https://www.credly.com/badges/6cf6b4d9-1cf3-4e18-a3e0-1c0a17b6861f/public_url">
     <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png"
-         width="140"
+         style="width:140px; margin-right:-30px; position:relative;"
          alt="Cisco Badge 2">
   </a>
 
@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <!-- Google Skill Badge 1 -->
   <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/23559430">
     <img src="https://cdn.qwiklabs.com/Vn8obezRkW7XylEKUmTypU6J9gi4LzDThv7MxBbvJWY%3D"
-         width="140"
+         style="margin-left:-30px;width:140px;"
          alt="Google Cloud Skill Badge 1">
   </a>
 
