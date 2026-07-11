@@ -42,6 +42,13 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
          alt="Cisco Badge 2">
   </a>
 
+  <!-- Coursera -->
+  <a href="https://coursera.org/verify/V1R4XQOIU4V0">
+    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V1R4XQOIU4V0/CERTIFICATE_LANDING_PAGE~V1R4XQOIU4V0.jpeg"
+         width="140"
+         alt="Coursera Certificate">
+  </a>
+
   <!-- Google Skill Badge 1 -->
   <a href="https://www.skills.google/public_profiles/4e997f14-3c56-4fd7-aefd-5a519238e7a8/badges/23559430">
     <img src="https://cdn.qwiklabs.com/Vn8obezRkW7XylEKUmTypU6J9gi4LzDThv7MxBbvJWY%3D"
