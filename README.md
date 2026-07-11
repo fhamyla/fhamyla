@@ -45,7 +45,8 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <!-- Coursera -->
   <a href="https://coursera.org/verify/V1R4XQOIU4V0">
     <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V1R4XQOIU4V0/CERTIFICATE_LANDING_PAGE~V1R4XQOIU4V0.jpeg"
-         width="140"
+         width="240"
+         height="140"
          alt="Coursera Certificate">
   </a>
 
