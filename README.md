@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
          alt="Coursera Certificate">
   </a>
 
-    <!-- Coursera Certificate 2 -->
+  <!-- Coursera Certificate 2 -->
   <a href="https://coursera.org/verify/IXALE7PPUGVJ">
     <img src="ibm.png"
          height="140"
