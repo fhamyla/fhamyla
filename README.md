@@ -42,9 +42,16 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
          alt="Cisco Badge 2">
   </a>
 
-  <!-- Coursera -->
+  <!-- Coursera Certificate 1 -->
   <a href="https://coursera.org/verify/V1R4XQOIU4V0">
     <img src="aws.png"
+         height="140"
+         alt="Coursera Certificate">
+  </a>
+
+    <!-- Coursera Certificate 2 -->
+  <a href="https://coursera.org/verify/IXALE7PPUGVJ">
+    <img src="ibm.png"
          height="140"
          alt="Coursera Certificate">
   </a>
