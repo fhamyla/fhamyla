@@ -171,6 +171,7 @@ Welcome to my GitHub! I'm a passionate developer focused on learning and buildin
   <img src="https://img.shields.io/badge/Google_Security_Operations-4285F4?style=flat&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/SOAR-6C63FF?style=flat&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Chronicle_SIEM-00A3E0?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-4A90E2?style=flat&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/YARA-L-555555?style=flat&logo=sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK_Framework-E44C4C?style=flat&logo=hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
